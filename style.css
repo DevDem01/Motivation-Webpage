@@ -1,0 +1,37 @@
+  body{
+    background-color: blue;
+  }
+  
+  h1{
+      font-family: "Libre Baskerville", serif;
+      font-optical-sizing: auto;
+      color: yellowgreen;
+      text-transform: uppercase;
+      font-size: 40pt;
+      }
+      p{
+    font-family: "Libre Baskerville", serif;
+      font-optical-sizing: auto;
+      color: yellowgreen;
+      font: size 30pt; ;
+
+      }
+
+      div{
+        text-align: center;
+        margin-top: 5%;
+        width: 50%;
+        margin-left: 25%;
+        margin-bottom: 5%;
+        
+        
+
+      }
+      img{
+        margin-bottom: 0;
+        border: 5px solid yellow;
+        width:100%
+
+       
+      }
+   
